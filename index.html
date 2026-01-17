@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en-US">		<!--  index.html for AFP@L-Deck.com C.12.14.2024   R.1.14.2026 -->
+<html lang="en-US">		<!--  index.html for AFP@L-Deck.com C.12.14.2024   R.1.17.2026 -->
 						
 <head>
 <!-- Google tag (gtag.js) -->
@@ -8,13 +8,16 @@
   window.dataLayer = window.dataLayer || [];
   function gtag(){dataLayer.push(arguments);}
   gtag('js', new Date());
-
   gtag('config', 'G-YM272KD5GQ');
 </script>
 
+	<!--  ACTIVATE base only for live hosting. The <base> tag specifies the base URL and/or target 
+		for all relative URLs in a document
+		<base href="https://L-deck.com" target="_blank">   -->
+	
 		<title>Electromagnetic Radiation</title>	
-		<link rel="stylesheet" href="styles/main-index.css">
-		<link rel="stylesheet" href="styles/Q-button.css">
+		<link rel="stylesheet" href="https://L-deck/styles/main-index.css">
+		<link rel="stylesheet" href="https://L-deck/styles/Q-button.css">
 
 		<link rel="apple-touch-icon" sizes="180x180" href="images/apple-touch-icon.png">
 		<link rel="icon" type="image/png" sizes="32x32" href="images/favicon-32x32.png">
@@ -24,9 +27,6 @@
 		<meta charset= "utf-8">
 		<meta name="viewport" content="width=device-width, initial-scale=1.0">
 		
-	<!--  ACTIVATE base only for live hosting !! The <base> tag specifies the base URL and/or target for all relative URLs in a document  -->	
-		<base href="https://www.L-deck.com/" target="_blank"> 
-
 	<meta name="keywords" content="Education, EMR, EMS, light, sine wave, spectrum, color">
 		
 	<meta name="description" content="electromagnetic radiation">	
@@ -70,7 +70,7 @@
     <img id='sine-wave'
         width=300
         height=80
-        src="sine_wave_animation.svg"
+        src="https://L-deck/sine_wave_animation.svg"
         alt="SVG animation of a sine wave."
 		>
 </div>
@@ -176,7 +176,7 @@
 <footer>		
 		<p Class="foot"> <strong>Keywords: Education, EMR, EMS, electromagnetic radiation, 
 			light, sine, spectrum, waves, visible colors. 
-			<br>&copy; 2024 - <span id="current-year"></span> Send feedback to email: AFP@L-Deck.com</strong></p>
+			<br>&copy; 2024 - <span id="current-year"></span> Email feedback to: AFP@L-Deck.com</strong></p>
 	<br><br><br>			                   
             <script>
 				document.getElementById("current-year").textContent = new Date().getFullYear();
@@ -184,3 +184,4 @@
 </footer>	
 </body>
 </html>
+
