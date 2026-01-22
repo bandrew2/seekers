@@ -58,7 +58,7 @@
 		height: 42px;
 		width: 1080px;
 		margin: auto;
-		background-image: linear-gradient(to right, violet, indigo, blue, green, yellow, orange, red, #ff4d4d);
+		background-image: linear-gradient(to right, violet, indigo, blue, green, yellow, orange, red, red, #ff4d4d);
 		border: none; /* adds an optional border */
 		}
 	
@@ -167,6 +167,7 @@ html, body {
 		color: #ffd125;
 		font-size: 1.0em;
 }
+
 
 
 
