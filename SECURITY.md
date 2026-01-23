@@ -1,23 +1,18 @@
-L-Deck Security Policy
+L-Deck.com Security Policy
 
 1.01 Supported Versions
 
-Use this section to tell people about which versions of your project are
-currently being supported with security updates.
+currently versions being supported with security updates.
 
 | Version | Supported          |
 | ------- | ------------------ |
-| 5.1.x   | :white_check_mark: |
-| 5.0.x   | :x:                |
-| 4.0.x   | :white_check_mark: |
-| < 4.0   | :x:                |
+| 1.01.a   |   |
+|          |   |
+|          |   |
+|          |   |
 
 ## Reporting a Vulnerability
 
-Use this section to tell people how to report a vulnerability.
+How to report a vulnerability: Send EMail describing the issue to: AFP@L-Deck.com
 
-Send EMail describing the issue to: AFP@L-Deck.com
 
-Tell them where to go, how often they can expect to get an update on a
-reported vulnerability, what to expect if the vulnerability is accepted or
-declined, etc.
