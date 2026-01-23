@@ -132,11 +132,11 @@
 		margin: auto;			
 		}
 
-	.energy-description{
+	.problem-statement{
 		font-family: monospace;
 		font-size: 1.65em;
-		text-align: justify;		
-		color: #ff9999;
+		text-align: center;		
+		color: #99ffeb;
 		width: 60%;
 		margin: auto;			
 		}
@@ -167,6 +167,7 @@ html, body {
 		color: #ffd125;
 		font-size: 1.0em;
 }
+
 
 
 
