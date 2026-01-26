@@ -16,14 +16,14 @@
 		}
 	
 		nav a{
-			color: #4da6ff;
+			color: blue;
 			font-size: 1.70em;	
 			font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 			text-decoration: none;			
 		}
 
 		.currentpage{  /* under the nav names */
-			border-bottom:#00ef8f solid 2px;
+			border-bottom:blue solid 3px;
 		}
 
 
@@ -78,4 +78,5 @@
 	color: #ffd125;
 	font-size: 1.0em;
 	}
+
 
